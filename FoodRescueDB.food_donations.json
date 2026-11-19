@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6aec15a7fd03487566a5b262"
+  },
+  "donor_name": "Green Grocers Market",
+  "item_description": "Fresh Tomoatoes",
+  "weight_kg": 15,
+  "logistics_metadata": {
+    "temp_requirement": "Ambient",
+    "status": "Unassigned",
+    "timestamp": "2026-11-05T05:35:35.465406200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aec6bb5dcc49863122d31df"
+  },
+  "donor_name": "Green Grocers Market",
+  "item_description": "Fesh Mangoes",
+  "weight_kg": 70,
+  "logistics_metadata": {
+    "temp_requirement": "Ambient",
+    "status": "Unassigned",
+    "timestamp": "2026-11-05T11:42:45.939297800Z"
+  }
+}]

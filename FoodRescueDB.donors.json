@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6aec14dcfd03487566a5b260"
+  },
+  "name": "Green Grocers Market",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      32.5825,
+      0.3476
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6aec14ddfd03487566a5b261"
+  },
+  "name": "The Daily Bread Bakery",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      32.5711,
+      0.3521
+    ]
+  }
+}]
